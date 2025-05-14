@@ -1,0 +1,101 @@
+cliente;tipo_de_cliente;numero_de_itens_comprados;venda_liquidas;metodo_de_pagamento;genero;estado_civil;idade
+1;Regular;1;39.5;Discover;Homem;Casado;32
+2;Promocional;1;102.4;Proprietary Card;Homem;Casado;36
+3;Regular;1;22.5;Proprietary Card;Homem;Casado;32
+4;Promocional;5;100.4;Proprietary Card;Homem;Casado;28
+5;Regular;2;54.0;MasterCard;Homem;Casado;34
+6;Regular;1;44.5;MasterCard;Homem;Casado;44
+7;Promocional;2;78.0;Proprietary Card;Homem;Casado;30
+8;Regular;1;22.5;Visa;Homem;Casado;40
+9;Promocional;2;56.52;Proprietary Card;Homem;Casado;46
+10;Regular;1;44.5;Proprietary Card;Homem;Casado;36
+11;Regular;1;29.5;Proprietary Card;Homem;Casado;48
+12;Promocional;1;31.6;Proprietary Card;Homem;Casado;40
+13;Promocional;9;160.4;Visa;Homem;Casado;40
+14;Promocional;2;64.5;Visa;Homem;Casado;46
+15;Regular;1;49.5;Visa;Homem;Solteiro;24
+16;Promocional;2;71.4;Proprietary Card;Homem;Solteiro;36
+17;Promocional;3;94.0;Proprietary Card;Homem;Solteiro;22
+18;Regular;3;54.5;Discover;Homem;Casado;40
+19;Promocional;2;38.5;MasterCard;Homem;Casado;32
+20;Promocional;6;44.8;Proprietary Card;Homem;Casado;56
+21;Promocional;1;31.6;Proprietary Card;Homem;Solteiro;28
+22;Promocional;4;70.82;Proprietary Card;Homem;Casado;38
+23;Promocional;7;266.0;American Express;Homem;Casado;50
+24;Regular;2;74.0;Proprietary Card;Mulher;Casado;42
+25;Promocional;2;39.5;Visa;Homem;Casado;48
+26;Promocional;1;30.02;Proprietary Card;Mulher;Casado;60
+27;Regular;1;44.5;Proprietary Card;Mulher;Casado;54
+28;Promocional;5;192.8;Proprietary Card;Mulher;Solteiro;42
+29;Promocional;3;71.2;Proprietary Card;Mulher;Casado;32
+30;Promocional;1;18.0;Proprietary Card;Mulher;Casado;70
+31;Promocional;2;63.2;MasterCard;Mulher;Casado;28
+32;Regular;1;75.0;Proprietary Card;Mulher;Casado;52
+33;Promocional;3;63.2;Proprietary Card;Mulher;Casado;44
+34;Regular;1;40.0;Proprietary Card;Mulher;Casado;34
+35;Promocional;5;105.5;MasterCard;Mulher;Casado;56
+36;Regular;1;29.5;MasterCard;Homem;Solteiro;36
+37;Regular;2;102.5;Visa;Mulher;Solteiro;42
+38;Promocional;6;117.5;Proprietary Card;Mulher;Casado;50
+39;Promocional;5;13.23;Proprietary Card;Mulher;Casado;44
+40;Regular;2;52.5;Proprietary Card;Mulher;Casado;58
+41;Promocional;13;198.8;Proprietary Card;Mulher;Casado;42
+42;Promocional;4;19.5;Visa;Mulher;Casado;46
+43;Regular;2;123.5;Proprietary Card;Mulher;Casado;48
+44;Promocional;1;62.4;Proprietary Card;Mulher;Casado;54
+45;Promocional;2;23.8;Proprietary Card;Mulher;Casado;38
+46;Promocional;2;39.6;Proprietary Card;Mulher;Casado;60
+47;Regular;1;25.0;MasterCard;Mulher;Casado;46
+48;Promocional;3;63.64;Proprietary Card;Mulher;Casado;30
+49;Promocional;1;14.82;Proprietary Card;Mulher;Casado;32
+50;Promocional;9;145.2;MasterCard;Mulher;Casado;46
+51;Promocional;6;176.62;Proprietary Card;Mulher;Casado;38
+52;Promocional;5;118.8;Proprietary Card;Homem;Casado;68
+53;Regular;1;58.0;Discover;Mulher;Solteiro;78
+54;Regular;2;74.0;Visa;Mulher;Solteiro;20
+55;Regular;2;49.5;MasterCard;Mulher;Casado;32
+56;Promocional;3;141.6;Proprietary Card;Mulher;Casado;38
+57;Promocional;6;123.1;Proprietary Card;Mulher;Casado;54
+58;Promocional;2;80.4;Proprietary Card;Mulher;Casado;48
+59;Promocional;4;65.2;MasterCard;Mulher;Casado;46
+60;Promocional;4;113.0;Proprietary Card;Mulher;Solteiro;50
+61;Promocional;1;108.8;Proprietary Card;Mulher;Casado;46
+62;Promocional;3;59.91;Proprietary Card;Mulher;Solteiro;30
+63;Promocional;5;53.6;Proprietary Card;Mulher;Casado;54
+64;Promocional;1;31.6;Proprietary Card;Mulher;Solteiro;42
+65;Promocional;2;49.5;Proprietary Card;Mulher;Casado;48
+66;Promocional;1;39.6;Proprietary Card;Mulher;Casado;62
+67;Promocional;2;59.5;Proprietary Card;Mulher;Casado;34
+68;Promocional;5;146.8;Proprietary Card;Mulher;Casado;28
+69;Promocional;2;47.2;Proprietary Card;Homem;Casado;46
+70;Promocional;8;95.05;Proprietary Card;Mulher;Casado;54
+71;Promocional;5;155.32;Proprietary Card;Mulher;Casado;30
+72;Promocional;4;58.0;MasterCard;Mulher;Casado;32
+73;Regular;1;69.0;Proprietary Card;Mulher;Solteiro;22
+74;Promocional;2;46.5;Proprietary Card;Mulher;Casado;32
+75;Promocional;2;45.22;Proprietary Card;Mulher;Casado;74
+76;Promocional;4;84.74;Proprietary Card;Mulher;Casado;62
+77;Regular;2;39.0;Proprietary Card;Mulher;Casado;42
+78;Promocional;4;111.14;Proprietary Card;Mulher;Casado;28
+79;Promocional;3;86.8;Proprietary Card;Mulher;Casado;38
+80;Regular;2;89.0;Discover;Mulher;Casado;54
+81;Promocional;2;78.0;MasterCard;Mulher;Casado;68
+82;Promocional;6;53.2;Proprietary Card;Mulher;Solteiro;30
+83;Promocional;4;58.5;Visa;Mulher;Casado;36
+84;Promocional;3;46.0;Proprietary Card;Mulher;Casado;44
+85;Regular;2;37.5;Visa;Mulher;Casado;44
+86;Promocional;1;20.8;Proprietary Card;Mulher;Casado;62
+87;Regular;6;144.0;MasterCard;Mulher;Solteiro;48
+88;Regular;4;107.0;Proprietary Card;Mulher;Casado;36
+89;Promocional;1;31.6;Proprietary Card;Mulher;Solteiro;20
+90;Promocional;6;57.6;Proprietary Card;Mulher;Casado;42
+91;Promocional;4;95.2;Proprietary Card;Mulher;Casado;54
+92;Promocional;1;22.42;Proprietary Card;Mulher;Casado;54
+93;Regular;5;159.75;Proprietary Card;Mulher;Casado;72
+94;Promocional;17;229.5;Proprietary Card;Mulher;Casado;30
+95;Regular;3;66.0;American Express;Mulher;Casado;46
+96;Regular;1;39.5;MasterCard;Mulher;Casado;44
+97;Promocional;9;253.0;Proprietary Card;Mulher;Casado;30
+98;Promocional;10;287.59;Proprietary Card;Mulher;Casado;52
+99;Promocional;2;47.6;Proprietary Card;Mulher;Casado;30
+100;Promocional;1;28.44;Proprietary Card;Mulher;Casado;44
